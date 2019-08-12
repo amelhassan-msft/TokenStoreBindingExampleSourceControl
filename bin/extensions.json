@@ -1,5 +1,0 @@
-{
-  "extensions":[
-    { "name": "TokenStoreBindingStartUp", "typeName":"MyFirstCustomBindingLibrary.TokenStoreBindingStartUp, TokenStoreBindingProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"}
-  ]
-}
