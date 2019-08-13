@@ -13,6 +13,6 @@
     }
   ],
   "disabled": false,
-  "scriptFile": "../bin/TokenStoreBindingExampleCodeControl.dll",
-  "entryPoint": "TokenStoreBindingExampleCodeControl.msi_http_dropbox.Run"
+  "scriptFile": "../bin/TokenBindingSourceCode.dll",
+  "entryPoint": "TokenBindingSourceCode.msi_http_dropbox.Run"
 }
